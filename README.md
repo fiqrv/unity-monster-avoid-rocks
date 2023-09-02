@@ -4,7 +4,7 @@ Welcome to the Unity Android Project called Monster avoid rocks repository! This
 
 ## Overview
 
-Provide a brief overview of your Unity Android project, including its purpose and main features.
+Monster avoid rocks is a Unity Game developed for Android platforms. Essentials, player will have to use their touch to dodge the rocks falling from above.
 
 ## Prerequisites
 
@@ -61,7 +61,7 @@ Give credit to any third-party assets, libraries, or tools that you have used in
 
 ## Contact
 
-- Project Maintainer: [Your Name](mailto:your@email.com)
+- Project Maintainer: [Fikri Fauzi](mailto:fikrifauzi@gmail.com)
 
 Feel free to reach out if you have questions or feedback about the project.
 
